@@ -8,5 +8,8 @@ I enrolled previously in Python & Apps Kickstarter with <ins>Code First Girls</i
 **Data & SQL**
 I also completed data & sql with <ins>Code First Girls</ins>, with my team we worked on building a `yoga studio database`.
 
+### Purpose of .gitignore file
+- .gitignore file is used in Git to help Git understand the files or directories it should not track and simple ignore.
+
 
 You can find more about me by checking my [LinkedIn account](https://www.linkedin.com/in/nadahkhas/) :relaxed:
