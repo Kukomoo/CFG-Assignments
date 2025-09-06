@@ -1,0 +1,1 @@
+Requirements text is used as a standard in python projects to basically list all the external packages and libraries that a project depends on.
